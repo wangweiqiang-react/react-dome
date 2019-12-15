@@ -1,0 +1,11 @@
+.header-height {
+  height: 75px;
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+
+  .ant-menu-horizontal {
+    border-bottom: 0;
+  }
+}
